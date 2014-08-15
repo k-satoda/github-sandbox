@@ -56,7 +56,7 @@ top
 
 .
 
-<a name="anchor" href=""></a>
+<a name="anchor"></a>
 Here is an anchor.
 
 .
